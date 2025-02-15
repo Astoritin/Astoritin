@@ -1,12 +1,8 @@
-- ☺️ Hi, I’m @Astoritin / 你好，我是阿斯托尔庭
-- 👀 I’m interested in surfing on the Internet / 我喜欢上网冲浪
-- 🌱 I’m a Magisk and KernelSU user / 我是 Magisk 和 KernelSU 用户
-- 💞️ I prefer Magisk Alpha as Root implement / 我比较喜欢使用 Magisk Alpha
-- 🐯 A nameless LSPosed Internal test user / 是一位无名的 LSPosed 内测版用户
-- 😄 A rookie of Magisk module developing / Magisk 模块开发菜鸡
-- ⚡ Pleased to meet you / 很高兴见到你！
-
-<!---
-Astoritin/Astoritin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😋 Hi, I’m [Astoritin](https://github.com/Astoritin) / 你好，我是[阿斯托利廷](https://github.com/Astoritin)
+- 👀 love surfing on the Internet / 喜欢上网冲浪
+- 🌱 a Magisk and KernelSU user / Magisk 以及 KernelSU 用户
+- 🧨 prefer Magisk Alpha as Root implement / 偏爱使用 Magisk Alpha
+- 🐯 A nameless LSPosed Internal test user / 一位无名 LSPosed 内测用户
+- ⚡ A rookie of Magisk module development / Magisk 模块开发新人
+- ✨ Pleased to meet you / 很高兴见到你！
+- 🎉 My private group / 我的私人群 <code>aHR0cHM6Ly90Lm1lLystTE81cnY0Nzl1d3pZakUx</code>
