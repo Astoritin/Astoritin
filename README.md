@@ -1,4 +1,4 @@
-- 😋 Hi, I’m [Astoritin](https://github.com/Astoritin) / 你好，我是[阿斯托利廷](https://github.com/Astoritin)
+- 😋 Hi, I’m [Astoritin](https://github.com/Astoritin) / 你好，我是[阿斯托理廷](https://github.com/Astoritin)
 - 👀 Love surfing on the Internet / 喜欢上网冲浪
 - 🌱 A Magisk and KernelSU user / Magisk 以及 KernelSU 用户
 - 🧨 Prefer Magisk Alpha as Root implement / 偏爱使用 Magisk Alpha
