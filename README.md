@@ -7,4 +7,4 @@
 - ❗ Modules I wrote is only for my personal use / 我写的模块都是自用为主
 - ✨ Pleased to meet you / 很高兴见到你！
 - 💡 My personal channel / 我的个人频道 [Astoritin's Notes](https://t.me/astoritinn)
-- 🎉 My private group / 我的私人群 <code>aHR0cHM6Ly90Lm1lLystTE81cnY0Nzl1d3pZakUx</code>
+- 🎉 My module communication group / 我的模块交流群 <code>aHR0cHM6Ly90Lm1lLystTE81cnY0Nzl1d3pZakUx</code>
