@@ -1,3 +1,4 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astoritin&layout=compact)
 - 😋 Hi, I’m [Astoritin](https://github.com/Astoritin) / 你好，我是[阿斯托里廷](https://github.com/Astoritin)
 - ✨ Love surfing on the Internet / 喜欢上网冲浪
 - ⚡ Modules I wrote is only for my personal use / 我写的模块都是自用为主
