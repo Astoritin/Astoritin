@@ -7,4 +7,4 @@
 - 🧨 Prefer Magisk Alpha as Root solution / 偏爱使用 Magisk Alpha
 - 🐯 A nameless LSPosed Internal test user / 一位无名 LSPosed 内测用户
 <br>
-![Astoritin](https://github-readme-stats.vercel.app/api?username=Astoritin&theme=default&show_icons=true)
+![Astoritin](https://github-readme-stats.vercel.app/api?username=Astoritin&theme=default)
