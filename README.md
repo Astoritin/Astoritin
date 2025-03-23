@@ -6,3 +6,4 @@
 - 🌱 A Magisk and KernelSU user / Magisk 以及 KernelSU 用户
 - 🧨 Prefer Magisk Alpha as Root solution / 偏爱使用 Magisk Alpha
 - 🐯 A nameless LSPosed Internal test user / 一位无名 LSPosed 内测用户
+[Astoritin's achievement board](https://github-readme-stats.vercel.app/api?username=<username>&theme=default&show_icons=true)
