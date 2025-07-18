@@ -1,5 +1,5 @@
 **Thousands of memories flood my heart, who shares this wind with me tonight?**
-- **“往事上心头千万，今宵风中谁同看？”**
+**“——往事上心头千万，今宵风中谁同看？”**
 
 - 😋 Hi, I’m [Astoritin](https://github.com/Astoritin) | 你好，我是[Astoritin](https://github.com/Astoritin)
 - 🌱 A Magisk and KernelSU user | Magisk 以及 KernelSU 用户
