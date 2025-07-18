@@ -5,7 +5,6 @@
 - ✨ Modules I wrote is only for my personal use / 我写的模块都是自用为主
 - 🚀 My favourite game is Fate Grand Order / 我喜欢的游戏是命运-冠位指定
 - ⚡ My personal channel / 个人频道 [Astoritin's Notes](https://t.me/astoritinn)
-- 💡 A weird and mystery island / 一个奇怪的神秘小岛 `aHR0cHM6Ly90Lm1lLystTE81cnY0Nzl1d3pZakUx`
-
+- 💡 My private group / 私人群 `aHR0cHM6Ly90Lm1lLystTE81cnY0Nzl1d3pZakUx`
 
 ![Astoritin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astoritin&show_icons=true)
