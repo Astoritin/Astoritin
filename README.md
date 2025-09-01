@@ -1,6 +1,6 @@
 **“往事上心头千万，今宵风中谁同看？”**   
- *——Thousands of memories flood my heart, who shares this wind with me tonight?*   
-   
+ *——Thousands of memories flood my heart, who shares this wind with me tonight?*
+---
 - 😋 Hi, I’m [Astoritin](https://github.com/Astoritin)
 - 🌱 A Magisk and KernelSU user
 - 🎉 A nameless LSPosed Internal test user
@@ -8,7 +8,7 @@
 - 🚀 My favourite game is Fate Grand Order
 - ⚡ My personal channel: [Astoritin's Notes](https://t.me/astoritinn)
 - 💡 A weird island: `aHR0cHM6Ly90Lm1lLystTE81cnY0Nzl1d3pZakUx`
-   
+---
 - 😋 你好，我是[Astoritin](https://github.com/Astoritin)
 - 🌱 Magisk 以及 KernelSU 用户
 - 🎉 一位无名 LSPosed 内测用户
