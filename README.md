@@ -1,6 +1,6 @@
 **“往事上心头千万，今宵风中谁同看？”**   
  *——Thousands of memories flood my heart, who shares this wind with me tonight?*
-
+   
 ---
 - 😋 Hi, I’m [Astoritin](https://github.com/Astoritin)
 - 🌱 A Magisk and KernelSU user
@@ -17,5 +17,3 @@
 - 🚀 我喜欢的游戏是命运-冠位指定
 - ⚡ 个人频道: [Astoritin's Notes](https://t.me/astoritinn)
 - 💡 一个奇怪小岛: `aHR0cHM6Ly90Lm1lLystTE81cnY0Nzl1d3pZakUx`
----
-![Astoritin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astoritin&show_icons=true)
